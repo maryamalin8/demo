@@ -5,10 +5,19 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "comment 1", "postId": 1 },
+    { "id": 2, "body": "comment 2", "postId": 1 },
+    { "id": 2, "body": "comment 3", "postId": 1 },
+    { "id": 2, "body": "comment 4", "postId": 2 },
+    { "id": 2, "body": "comment 5", "postId": 2 },
   ],
   "profile": {
-    "name": "typicode"
+    "name": "maryam"
+  },
+  {
+    "name": "mohammad"
+  },
+{
+    "name": "mahdi"
   }
 }
